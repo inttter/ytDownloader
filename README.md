@@ -1,4 +1,4 @@
 # ytdownloader
 Download YouTube videos using this very simple and easy to use program.
 
-![Local Image](images/image.png)
+![GitHub Logo](https://ibb.co/80b6hKB)
