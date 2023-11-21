@@ -1,6 +1,7 @@
 ![Logo](https://cdn.discordapp.com/attachments/892836872118763543/1174458748769685514/youtube-dl-icon-2048x2048-twqze5uw_2.png?ex=6567aaf2&is=655535f2&hm=6d50f35955a65a5ec8cbe20f4daedea39a14da8a52681c62e9a9baa612358c44&)
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square)](https://github.com/inttter/ytDownloader/blob/main/LICENSE) 
+[![Download](https://img.shields.io/badge/Download-Latest%20Release-green?style=flat-square)]([link-to-download](https://github.com/inttter/ytdownloader/releases)) 
 [![Last Commit](https://img.shields.io/github/last-commit/inttter/PetTheCat?style=flat-square)](https://github.com/inttter/ytDownloader/commits/main)
 [![CodeFactor](https://www.codefactor.io/repository/github/inttter/ytdownloader/badge/main)](https://www.codefactor.io/repository/github/inttter/ytdownloader/overview/main)
 ![Open Issues](https://img.shields.io/github/issues/inttter/ytDownloader?style=flat-square)
