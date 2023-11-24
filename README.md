@@ -1,3 +1,5 @@
+<div align="center">
+
 ![Logo](https://cdn.discordapp.com/attachments/892836872118763543/1174458748769685514/youtube-dl-icon-2048x2048-twqze5uw_2.png?ex=6567aaf2&is=655535f2&hm=6d50f35955a65a5ec8cbe20f4daedea39a14da8a52681c62e9a9baa612358c44&)
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square)](https://github.com/inttter/ytDownloader/blob/main/LICENSE) 
@@ -59,3 +61,5 @@ This tool is provided for personal use and for downloading content which you hav
 ---
 ### 🍵 Buy me a Coffee! 🍵
 [![Support me on Ko-fi](https://img.shields.io/badge/Support%20me%20on-Ko--fi-FF5E5B?style=flat-square&logo=ko-fi&logoColor=white)](https://ko-fi.com/intter)
+
+</div>
